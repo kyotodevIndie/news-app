@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+ <p align="center">
+ <a href="https://github.com/kyotodevindie">
+    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f4cqu64AQe5Cujq7ATD7h0k4wPuexdrt0T_WXZVMxUP3yG00PEs-4xe3whxLCsEehn_K22HEy2aoqzF92RIVgm18iloayyzfhbkinwaHhQkuaKgOhS6YxhBcYYIKcbzRbjGFzGG1FUWzJ3EzecuQc0=w54-h61-no?authuser=0" alt="Logo" width="95" height="100">
+  </a>
+</p>
+  <h1 align="center">NewsAPP</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p align="center">
+    Hero is a project that brings an anime catalog for Asian animation enthusiasts, shows detailed information about all the anime cataloged in the <a href="https://kitsu.docs.apiary.io/#introduction/json:api">Kitsu API</a>!
+    <br />
+    <a href="https://anime-catalog-hero.vercel.app/">View Demo</a>
+</p>
 
-## Available Scripts
+### Built With
 
-In the project directory, you can run:
+- [React](https://pt-br.reactjs.org/)
+- [Next](https://nextjs.org/)
+- [Ant Design](https://ant.design/)
+- [Less Css](http://lesscss.org/)
 
-### `yarn start`
+### Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone the repo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```sh
+git clone https://github.com/kyotodevIndie/anime-catalog-hero.git
+```
 
-### `yarn test`
+3. Install the packages using NPM or Yarn
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```sh
+yarn
+```
 
-### `yarn build`
+```sh
+npm install
+```
+4. run the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+yarn dev
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+npm run dev
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### `yarn eject`
+6. Happy coding!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- CONTRIBUTING -->
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## Learn More
+<!-- LICENSE -->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Distributed under the MIT License. See `LICENSE` for more information.
 
-### Code Splitting
+## Thank you!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   <p> 
+    thank you for your patience to read this far! if possible, give a star!
+   </p> 
+   <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
