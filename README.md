@@ -1,32 +1,33 @@
- <p align="center">
- <a href="https://github.com/kyotodevindie">
-    <img src="https://lh3.googleusercontent.com/pw/ACtC-3f4cqu64AQe5Cujq7ATD7h0k4wPuexdrt0T_WXZVMxUP3yG00PEs-4xe3whxLCsEehn_K22HEy2aoqzF92RIVgm18iloayyzfhbkinwaHhQkuaKgOhS6YxhBcYYIKcbzRbjGFzGG1FUWzJ3EzecuQc0=w54-h61-no?authuser=0" alt="Logo" width="95" height="100">
-  </a>
-</p>
-  <h1 align="center">NewsAPP</h1>
+
+<h1 align="center">News App</h1>
 
   <p align="center">
-    Hero is a project that brings an anime catalog for Asian animation enthusiasts, shows detailed information about all the anime cataloged in the <a href="https://kitsu.docs.apiary.io/#introduction/json:api">Kitsu API</a>!
+   to update the population with news, using the <a href="https://currentsapi.services/en/docs/introduction">Current News Api</a>
     <br />
-    <a href="https://anime-catalog-hero.vercel.app/">View Demo</a>
-</p>
+    <br />
+    <a href="https://news-rho.vercel.app/">View Demo</a>
+  </p>
+  <p align="center">
+    Ps: To log into the application, use the credentials: <br />
+    email:admin@admin.com <br />
+    password:admin123
+  </p>
+<!-- ABOUT THE PROJECT -->
 
 ### Built With
 
 - [React](https://pt-br.reactjs.org/)
-- [Next](https://nextjs.org/)
-- [Ant Design](https://ant.design/)
-- [Less Css](http://lesscss.org/)
+- [React-Bootstrap](https://react-bootstrap.netlify.app/getting-started/introduction/)
 
 ### Installation
 
 1. Clone the repo
 
 ```sh
-git clone https://github.com/kyotodevIndie/anime-catalog-hero.git
+git clone https://github.com/kyotodevIndie/News.git
 ```
 
-3. Install the packages using NPM or Yarn
+2. Install the packages using NPM or Yanr
 
 ```sh
 yarn
@@ -35,19 +36,8 @@ yarn
 ```sh
 npm install
 ```
-4. run the project
 
-```sh
-yarn dev
-```
-
-```sh
-npm run dev
-```
-
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-6. Happy coding!
+3. Happy coding!
 
 <!-- CONTRIBUTING -->
 
@@ -72,4 +62,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
    <p> 
     thank you for your patience to read this far! if possible, give a star!
    </p> 
-   <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
+   <img src="src/assets/repoassets/1.gif" alt="Logo" width="150" height="150">
+
