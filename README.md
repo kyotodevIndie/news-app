@@ -1,70 +1,66 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">News App</h1>
 
-## Available Scripts
+  <p align="center">
+   to update the population with news, using the <a href="https://currentsapi.services/en/docs/introduction">Current News Api</a>
+    <br />
+    <br />
+    <a href="https://news-rho.vercel.app/">View Demo</a>
+  </p>
+  <p align="center">
+    Ps: To log into the application, use the credentials: <br />
+    email:admin@admin.com <br />
+    password:admin123
+  </p>
+<!-- ABOUT THE PROJECT -->
 
-In the project directory, you can run:
+### Built With
 
-### `yarn start`
+- [React](https://pt-br.reactjs.org/)
+- [React-Bootstrap](https://react-bootstrap.netlify.app/getting-started/introduction/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Installation
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Clone the repo
 
-### `yarn test`
+```sh
+git clone https://github.com/kyotodevIndie/News.git
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Install the packages using NPM or Yanr
 
-### `yarn build`
+```sh
+yarn
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Happy coding!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- CONTRIBUTING -->
 
-### `yarn eject`
+## Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- LICENSE -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+Distributed under the MIT License. See `LICENSE` for more information.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Thank you!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   <p> 
+    thank you for your patience to read this far! if possible, give a star!
+   </p> 
+     <img src="https://lh3.googleusercontent.com/pw/ACtC-3f0oIHIN5_S0Z72L0b3XQSkL9or6r0pgoyhyugqOA02f8lv1MaYY4aucAd1jTGbWl8-4mPviLlDiIN7frgGYWldM3x45yfi7BxCkfMFUm7NnClHQRIRw5QLFco123lsR0Kyp-uFuDdD9ZBVnqwxTywp=s512-no?authuser=0" alt="img" width="150" height="150">
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
